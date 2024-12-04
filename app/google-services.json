@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865001145183",
+    "project_id": "login-mobile-38fa2",
+    "storage_bucket": "login-mobile-38fa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865001145183:android:89e95dac7fdc40454cacea",
+        "android_client_info": {
+          "package_name": "com.example.loginmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCOy_3EmvE8NCPLy6wXV1kXTSkOe9MeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
